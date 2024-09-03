@@ -1,2 +1,15 @@
-# Nutritrack
-NutriTrack is a Python-based desktop application designed to help users monitor their daily nutrition and weight. With a user-friendly interface themed in light blue, NutriTrack offers essential features like user authentication, nutrition logging, weight tracking, and a calendar view for easy visualization of your health data.
+ NutriTrack
+
+NutriTrack is a Python-based desktop application for tracking your daily nutrition and weight. It features a light blue-themed user interface, user authentication, a nutrition log, weight tracking, and a calendar view.
+
+## Features
+
+- User Authentication: Sign up and log in to your account.
+- Nutrition Log: Input daily calories, protein, fat, and carbs.
+- Weight Tracking: Log daily weight and view trends.
+- Calendar View: Track your daily logs via a calendar.
+
+## Installation
+
+1. Clone the repository.
+2. Install the required packages:
